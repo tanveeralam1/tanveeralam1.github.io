@@ -4,7 +4,8 @@ document.getElementById('dlinput').addEventListener('input' ,
 			function(e) {
 				
 				let dollar = e.target.value;
-				document.getElementById('takaOutput').innerHTML = dollar*83.73.toFixed(2);
+				let total = dollar*83.73;
+				document.getElementById('takaOutput').innerHTML = total.toFixed(2);
 
 		}
 		);
