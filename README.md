@@ -1,4 +1,4 @@
-# tanveeralam1.github.io
+# Tanveer Alam
 
 Welcome to My Personal Projects
 
